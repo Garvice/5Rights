@@ -1,0 +1,2 @@
+[Sun Jun 14 2015 00:25:54 GMT-0700 (PDT)] Layer "5 Rights Brewing Company is the continuation of a dream for us,": Expected end of input but "," found.
+[Sun Jun 14 2015 00:25:54 GMT-0700 (PDT)] Layer "5 Rights Brewing Company is the continuation of a dream for us,": Expected end of input but "," found.
