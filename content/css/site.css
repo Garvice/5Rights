@@ -7392,7 +7392,7 @@ footer .wallflower-tout img {
     position: relative;
     width: 100%;
     left: 0;
-    z-index: -999999;
+    z-index: 10000;
     overflow: hidden;
     color: #ffffff;
     background-repeat: no-repeat;
