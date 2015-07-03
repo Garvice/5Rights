@@ -7246,7 +7246,6 @@ h4 {
 }
 h4.text-r {
   font-size: 12.5px;
-  line-height: ;
   hyphens: auto;
 }
 @media (min-width: 768px) {
@@ -7329,24 +7328,9 @@ p {
   line-height: 1;
   font-family: 'caviar_dreamsbold', Arial, sans-serif;
 }
-p.text-r {
- /* font-size: 18px;
-  line-height: ;*/
-}
 @media (min-width: 768px) {
   p.text-r {
     font-size: 20px;
-    line-height: ;
-  }
-}
-@media (min-width: 992px) {
-  p.text-r {
-    line-height: ;
-  }
-}
-@media (min-width: 1200px) {
-  p.text-r {
-    line-height: ;
   }
 }
 p a {
@@ -7925,7 +7909,7 @@ footer .wallflower-tout img {
     background-size: cover;
     background-position: center center;
     padding: 0 !important;
-    color: 6ccef6;
+    color: #6ccef6;
 }
 
 #onTapBeerMenu {
