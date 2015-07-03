@@ -6180,7 +6180,7 @@ hr {
 .input-placeholder-style {
   color: ;
   font-size: ;
-  line-height: ;
+ 
   letter-spacing: ;
 }
 /* static margin */
@@ -7110,12 +7110,12 @@ h6 {
 }
 h1 {
   
-  line-height: ;
+ 
     
 }
 h1.text-r {
   font-size: 3em;
-  line-height: ;
+ 
 
 
   hyphens: auto;
@@ -7132,63 +7132,63 @@ h1.text-r {
 }
 h2 {
   font-size: 40px;
-  line-height: ;
+ 
 }
 h2.text-r {
   font-size: 20px;
-  line-height: ;
+ 
   hyphens: auto;
 }
 @media (min-width: 768px) {
   h2.text-r {
     font-size: 30px;
-    line-height: ;
+   
     hyphens: none;
   }
 }
 @media (min-width: 992px) {
   h2.text-r {
     font-size: 36px;
-    line-height: ;
+   
   }
 }
 @media (min-width: 1200px) {
   h2.text-r {
     font-size: 40px;
-    line-height: ;
+   
   }
 }
 h3 {
   font-size: 30px;
-  line-height: ;
+ 
 }
 h3.text-r {
   font-size: 15px;
-  line-height: ;
+ 
   hyphens: auto;
 }
 @media (min-width: 768px) {
   h3.text-r {
     font-size: 22.5px;
-    line-height: ;
+   
     hyphens: none;
   }
 }
 @media (min-width: 992px) {
   h3.text-r {
     font-size: 27px;
-    line-height: ;
+   
   }
 }
 @media (min-width: 1200px) {
   h3.text-r {
     font-size: 30px;
-    line-height: ;
+   
   }
 }
 h4 {
   font-size: 25px;
-  line-height: ;
+ 
 }
 h4.text-r {
   font-size: 12.5px;
@@ -7197,76 +7197,68 @@ h4.text-r {
 @media (min-width: 768px) {
   h4.text-r {
     font-size: 18.75px;
-    line-height: ;
+   
     hyphens: none;
   }
 }
 @media (min-width: 992px) {
   h4.text-r {
     font-size: 22.5px;
-    line-height: ;
+   
   }
 }
 @media (min-width: 1200px) {
   h4.text-r {
     font-size: 25px;
-    line-height: ;
+   
   }
 }
 h5 {
   font-size: 20px;
-  line-height: ;
+ 
 }
 h5.text-r {
   font-size: 10px;
-  line-height: ;
+ 
   hyphens: auto;
 }
 @media (min-width: 768px) {
   h5.text-r {
     font-size: 15px;
-    line-height: ;
     hyphens: none;
   }
 }
 @media (min-width: 992px) {
   h5.text-r {
     font-size: 18px;
-    line-height: ;
   }
 }
 @media (min-width: 1200px) {
   h5.text-r {
     font-size: 20px;
-    line-height: ;
   }
 }
 h6 {
   font-size: 15px;
-  line-height: ;
 }
 h6.text-r {
   font-size: 7.5px;
-  line-height: ;
   hyphens: auto;
 }
 @media (min-width: 768px) {
   h6.text-r {
     font-size: 11.25px;
-    line-height: ;
     hyphens: none;
   }
 }
 @media (min-width: 992px) {
   h6.text-r {
     font-size: 13.5px;
-    line-height: ;
   }
 }
 @media (min-width: 1200px) {
   h6.text-r {
     font-size: 15px;
-    line-height: ;
   }
 }
 p {
