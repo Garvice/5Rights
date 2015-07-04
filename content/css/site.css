@@ -8713,6 +8713,7 @@ footer .wallflower-tout img {
 }
 
 .hero {
+    background-image: url(../images/rotator.gif);
     overflow: hidden;
     height: 100%;
     width: 100%;
@@ -9021,9 +9022,7 @@ footer .wallflower-tout img {
 }
 
 @media (min-width: 634px) {
-    .hero {
-        background-image: url(../images/rotator.gif);
-    }
+    
     .onTap{
         margin-top: 1065px;
     }
@@ -9041,7 +9040,7 @@ footer .wallflower-tout img {
         background-position: top left;
     }
     .onTap{   
-        margin-top: 300px;
+        margin-top: 10em;
     }
 }
 
