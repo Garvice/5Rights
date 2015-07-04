@@ -8524,7 +8524,7 @@ nav .navigation-menu {
     color: #334B21 !important;
     letter-spacing: 1px !important;
     background-color: white;
-    font-weight: bolder
+    font-weight: bolder;
 }
 
 nav ul li {
@@ -9035,7 +9035,7 @@ footer .wallflower-tout img {
     }
     .hero {
         background-image: url(../images/logo.png);
-        background-size: 100% 100%;
+        background-size: cover;
         background-position: top left;
     }
 }
