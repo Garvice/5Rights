@@ -7402,23 +7402,22 @@ footer .wallflower-tout img {
 }
 
 .why {
-    position:relative;
+    position: relative;
     width: 100%;
     left: 0;
-    z-index: 0;
+    z-index: 10000;
     overflow: hidden;
-    height: 100%;
-    color: #ffffff; 
+    color: #ffffff;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position:50% 50%;
+    background-position: center center;
     padding: 0 !important;
 }
 .about {
     position: relative;
     width: 100%;
     left: 0;
-    z-index: 40;
+    z-index: 10000;
     overflow: hidden;
     color: #ffffff;
     background-repeat: no-repeat;
@@ -7431,9 +7430,8 @@ footer .wallflower-tout img {
     position: relative;
     width: 100%;
     left: 0;
-    z-index: 40;
+    z-index: 10000;
     overflow: hidden;
-    height: 100%;
     color: #ffffff;
     background-repeat: no-repeat;
     background-size: cover;
