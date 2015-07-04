@@ -7277,8 +7277,8 @@ overflow: hidden;
     top: 0px;
     left: 0px;
       z-index: -99999999;
- 
-    
+
+    background-color: #334B21;
 }
 .about header p {
   position: relative;
@@ -7553,6 +7553,11 @@ overflow: hidden;
     }
 }
 
+@media (min-width: 634px){
+ .hero{
+    background-image: url(../images/rotator.gif);
+ }
+}
 @media (max-width: 634px) {
   p{
      font-size: 1.2em;
@@ -7560,14 +7565,19 @@ overflow: hidden;
 h1{
      font-size: 2.8em;   
     }
+    .hero {
+        background-image: url(../images/logo.png);
+        background-size: contain;
+        background-position: center center;
+        background-color: #334B21;
+    }
 }
+
 
 @media (max-width: 500px) {
   p{
      font-size: 1.0em;
- }
-
-    
+ }    
 }
 
 #promo {
