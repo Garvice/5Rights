@@ -9038,6 +9038,9 @@ footer .wallflower-tout img {
     .hero {
         background-size: contain;
         background-position: top left;
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        
     }
     .onTap{   
         margin-top: 10em;
