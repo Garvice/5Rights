@@ -7567,8 +7567,8 @@ h1{
     }
     .hero {
         background-image: url(../images/logo.png);
-        background-size: contain;
-        background-position: center center;
+        background-size: cover;
+        background-position: top left;
         background-color: #334B21;
     }
 }
