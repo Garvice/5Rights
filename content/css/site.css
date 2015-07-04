@@ -3399,6 +3399,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-bottom: 20px;
   border: 1px solid transparent;
     height: 10px;
+    z-index: 9999999;
 }
 .navbar:before,
 .navbar:after {
@@ -3518,7 +3519,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
   position: fixed;
   right: 0;
   left: 0;
-  z-index: 1030;
 }
 @media (min-width: 768px) {
   .navbar-fixed-top,
@@ -7265,7 +7265,7 @@ footer .wallflower-tout img {
   margin: 0 auto;
 }
 .hero {
-  overflow: hidden;
+overflow: hidden;
   height: 100%;
     width: 100%;
   color: #ffffff;
@@ -7398,7 +7398,7 @@ footer .wallflower-tout img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 0 !important;
+    padding: 1em, 0em !important;
 }
 
 .why {
@@ -7411,7 +7411,7 @@ footer .wallflower-tout img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 0 !important;
+    padding: 1em, 0em !important;
 }
 .about {
     position: relative;
@@ -7423,7 +7423,7 @@ footer .wallflower-tout img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 0 !important;
+    padding: 1em, 0em !important;
 }
 
 .events {
@@ -7436,7 +7436,7 @@ footer .wallflower-tout img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 0 !important;
+    padding: 1em, 0em; !important;
 }
 
 .contact {
@@ -7547,6 +7547,9 @@ footer .wallflower-tout img {
         font-size: 1.5em;
         text-align: left;
         font-size: 1em;
+    }
+    .hours p{
+        
     }
 }
 
