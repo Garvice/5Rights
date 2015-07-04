@@ -9024,6 +9024,9 @@ footer .wallflower-tout img {
     .hero {
         background-image: url(../images/rotator.gif);
     }
+    .onTap{
+        margin-top: 1065px;
+    }
 }
 
 @media (max-width: 634px) {
@@ -9035,8 +9038,11 @@ footer .wallflower-tout img {
     }
     .hero {
         background-image: url(../images/logo.png);
-        background-size: cover;
+        background-size: contain;
         background-position: top left;
+    }
+    .onTap{   
+        margin-top: 300px;
     }
 }
 
