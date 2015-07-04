@@ -9035,7 +9035,7 @@ footer .wallflower-tout img {
     }
     .hero {
         background-image: url(../images/logo.png);
-        background-size: cover;
+        background-size: 100% 100%;
         background-position: top left;
     }
 }
