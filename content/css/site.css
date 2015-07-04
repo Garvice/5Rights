@@ -9037,13 +9037,10 @@ footer .wallflower-tout img {
     }
     .hero {
         background-size: contain;
-        background-position: top left;
-        margin-top: 0 !important;
-        padding-top: 0 !important;
-        
+        background-position: top, center;
     }
     .onTap{   
-        margin-top: 10em;
+        margin-top: 14em;
     }
 }
 
@@ -9051,6 +9048,10 @@ footer .wallflower-tout img {
     p {
         font-size: 1.0em;
     }
+    .onTap{   
+        margin-top: 10em;
+    }
+        
 }
 
 #promo {
