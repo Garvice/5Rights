@@ -8097,7 +8097,7 @@ h6 {
     letter-spacing: 3px;
 }
 
-h1 {}
+
 
 h1.text-r {
     font-size: 3em;
@@ -8716,4 +8716,8 @@ section header h4 {
 
 .page {
     background-color:  #334B21;
+}
+
+.SectionHeading {
+    padding-top: 1.25em;
 }
